@@ -1,7 +1,8 @@
 # rosversity_website repo
 
 # Update Website.
-- once you update the website and have made all chandes in htm code need to follow these steps 
+- once you update the website and have made all changes in html code need to follow these steps 
+open terminal where the project contain then type below comment 
 ```sh
     firebase deploy
 ```
