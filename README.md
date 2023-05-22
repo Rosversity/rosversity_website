@@ -42,8 +42,4 @@ firebase init
 
 - That's it! Your website should now be live on Firebase Hosting. You can access it by visiting the URL provided by Firebase.
 
-### Updateing the website
-You need to run the command in the terminal after editingmake the changes needed in the website then you can make changes to your website by running the following command in your terminal:
-```sh
-    firebase deploy
-```
+
